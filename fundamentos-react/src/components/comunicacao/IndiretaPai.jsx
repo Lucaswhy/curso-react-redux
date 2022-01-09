@@ -8,8 +8,8 @@ export default (props) => {
   const [nerd, setNerd] = useState(false);
   function fornecerInformacoes(pNome, pIdade, pNerd) {
     setNome(pNome);
-    setNome(pIdade);
-    setNome(pNerd);
+    setIdade(pIdade);
+    setNerd(pNerd);
   }
 
   return (
