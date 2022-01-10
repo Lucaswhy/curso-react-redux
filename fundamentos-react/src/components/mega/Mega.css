@@ -1,0 +1,11 @@
+.Megasena {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+}
+
+input{
+    max-width: 30px;
+    margin-bottom: 10px;
+}
